@@ -1,4 +1,5 @@
-# POC for Kafa Python Integrationn from Jupyter with Mongo datab ase
+POC for Kafa Python Integrationn from Jupyter with Mongo database
+====================================================================
 This is a  POC to show cause how we can connect the mongo database with Kafka from Jupyter notebook. We are using the following 3 important files to showcause the same.
 ```
                 1. JupyterConsumer.ipynb =>< use to produce the Kafka Topics
